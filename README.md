@@ -1,6 +1,6 @@
 Welcome to the Content API Developer's Guide!
 
-# About Content API
+# About Content API 2
 
 Content API allows you to search and download content using your own editorial tools, without having to visit our portals, such as [apimages.com](http://apimages.com).
 The API provides access to:
